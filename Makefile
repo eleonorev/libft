@@ -6,7 +6,7 @@
 #    By: evoisin <evoisin@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2013/11/21 07:56:39 by evoisin           #+#    #+#              #
-#    Updated: 2014/08/21 16:26:24 by evoisin          ###   ########.fr        #
+#    Updated: 2014/09/09 15:29:55 by evoisin          ###   ########.fr        #
 #                                                                              #
 #******************************************************************************#
 
@@ -23,9 +23,7 @@ SRC		= 	ft_isalnum.c ft_isascii.c ft_isprint.c ft_strrchr.c\
 			ft_strmapi.c ft_strequ.c ft_strnequ.c ft_strsub.c ft_strjoin.c\
 			ft_putchar.c ft_putstr.c\
 			ft_putendl.c ft_putnbr.c ft_putchar_fd.c ft_putstr_fd.c\
-			ft_putendl_fd.c ft_putnbr_fd.c\
-
-
+			ft_putendl_fd.c ft_putnbr_fd.c ft_itoa.c
 
 HEAD	=	libft.h
 

@@ -6,7 +6,7 @@
 /*   By: evoisin <evoisin@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2013/11/21 06:31:38 by evoisin           #+#    #+#             */
-/*   Updated: 2014/08/21 15:16:39 by evoisin          ###   ########.fr       */
+/*   Updated: 2014/09/09 15:26:31 by evoisin          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -66,6 +66,7 @@ char	*ft_strsub(char const *s, unsigned int start, size_t len);
 char	*ft_strjoin(char const *s1, char const *s2);
 char	*ft_strtrim(char const *s);
 char	**ft_strsplit(char const *s, char c);
+int		ft_atoi(const char *str);
 char	*ft_itoa(int n);
 void	ft_putchar(char c);
 void 	ft_putstr(char const *s);
